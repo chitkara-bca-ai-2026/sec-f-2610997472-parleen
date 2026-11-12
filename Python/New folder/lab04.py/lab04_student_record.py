@@ -1,0 +1,12 @@
+print("="*50)
+print("          Data Conversion Utility")
+print("="*50)
+p=input("Enter Product Name:")
+pr=float(input("Enter Price:"))
+q=int(input("Enter Quantity"))
+
+print("-"*50)
+print("          Type Casting Summary")
+print("-"*50)
+print("Variable       Value       Python Type")
+print("-"*50)
